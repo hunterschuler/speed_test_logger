@@ -13,3 +13,7 @@ Here are some defaults that you should (or must) change if you want to use this:
   Change this to your desired csv file path
 * time.sleep(300)
   Change this to your desired test interval (in seconds)
+
+Output is in a basic (and unlabeled) format:
+column1 | column2 | column3 | column4
+down (mbps) | up (mbps) | ping (ms) | timestamp
